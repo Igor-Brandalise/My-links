@@ -9,7 +9,7 @@ export function Projetos() {
         className="hover:bg-amber-500/5 transition-all hover:scale-[1.01] rounded-2xl p-3    "
       >
         <section className="flex flex-row gap-4 rounded-xl pl-1">
-          <img src="/public/coin.png" alt="" className=" size-5" />
+          <img src="/coin.png" alt="" className=" size-5" />
           <span className="text-white font-bold">Coin-track</span>
         </section>
         <section className="text-gray-500 flex flex-col w-[300px] ">
@@ -26,7 +26,7 @@ export function Projetos() {
         className="hover:bg-amber-500/5 transition-all hover:scale-[1.01] rounded-2xl p-3    "
       >
         <section className="flex flex-row gap-4 rounded-xl pl-1">
-          <img src="/public/wish-list_3585145.png" alt="" className=" size-5" />
+          <img src="/wish-list_3585145.png" alt="" className=" size-5" />
           <span className="text-white font-bold">Todo list</span>
         </section>
         <section className="text-gray-500 flex flex-col w-[300px] ">
@@ -42,7 +42,7 @@ export function Projetos() {
         className="hover:bg-amber-500/5 transition-all hover:scale-[1.01] rounded-2xl p-3    "
       >
         <section className="flex flex-row gap-4 rounded-xl pl-1">
-          <img src="/public/5903430.png" alt="" className=" size-5" />
+          <img src="/5903430.png" alt="" className=" size-5" />
           <span className="text-white font-bold">WeatherMe</span>
         </section>
         <section className="text-gray-500 flex flex-col w-[300px] ">
@@ -59,7 +59,7 @@ export function Projetos() {
       >
         <section className="flex flex-row gap-4 rounded-xl pl-1">
           <img
-            src="/public/search-engine-optimization.png"
+            src="/search-engine-optimization.png"
             alt=""
             className=" size-5"
           />
